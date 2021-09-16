@@ -1,10 +1,10 @@
 body{
-    background-color: lightskyblue;
+    background-color: rgb(10, 44, 65);
 }
 .col{
-    background-color: white;
+    background-color: #ffffff, 255, 255);
 }
 .container{
     margin-top:20px;
     border-radius: 15px;
-}
+    }
