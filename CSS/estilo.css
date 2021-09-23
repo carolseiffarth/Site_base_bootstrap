@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(100, 35, 250);
+    background-color: rgba(99, 35, 250, 0.829);
+}
+a{
+    color: rgb(0, 0, 0);
 }
 .col{
     background-color: #000000;
