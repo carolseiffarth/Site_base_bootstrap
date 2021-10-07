@@ -10,5 +10,7 @@ a{
 .container{
     margin-top:20px;
     border-radius: 15px;
-    }
-    p
+}
+p{
+    color: #ffffff
+}    
